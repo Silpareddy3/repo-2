@@ -10,6 +10,6 @@ Now push the source code to github : git push -u origin branch_name
 Then it will ask username : provider github username
 Now it will ask password : generate a token and paste here
 How to generate a token : setting >>>>> developer settings >>> personal access token >>
-
+data
 data added in git hub 
 this is github
